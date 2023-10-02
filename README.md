@@ -34,6 +34,13 @@ For support, email krish79681@gmail.com.
 project Links
 https://github.com/RadhaKrishna33/quiz-website
 
+## How to run
+
+Download or clone all the files
+Make sure all the locations of the were correctly given
+Open the html file using a web browser
+And perform the quiz
+
 
 
 
