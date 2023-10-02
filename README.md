@@ -1,12 +1,11 @@
 
-# Online Quiz using Frontend Technologies
+# Interactive Quiz website using Frontend Technologies
 
-This is an online quiz website in which organizer sets the exam to test the users knowledge 
-this test is taken by the users
+This is an online quiz website in which a time based quiz will be conducted 
 Test contains 5 questions
 Each question contains 4 options only one option is correct 
-Useres have to select the correct option amonf options avaliable
-QUiz is timed for 5 minutes after which quiz automatically submits and shows the results
+Useres have to select the correct option among the options avaliable
+QUiz is set for 5 minutes and it will be automatically submitted after the time runs out and displays the results
 
 
 ## Appendix
@@ -33,7 +32,7 @@ For support, email krish79681@gmail.com.
 
 ## 🔗 Links
 project Links
-https://github.com/kranthi2408/onlinequiz.git
+
 
 
 
